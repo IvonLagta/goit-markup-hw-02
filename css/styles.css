@@ -97,3 +97,29 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.team {
+    background-color: #F4F4FD;
+}
+.team-header {
+    text-align: center;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.team-list {
+    background-color: #FFFFFF;
+}
+.team-list-header {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+.team-list-paraghraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
