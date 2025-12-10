@@ -50,13 +50,13 @@ a {
     text-decoration: none;
     color: inherit;
 }
-.order {
+.distribution {
     background-color: #2E2F42;
     text-align: center;
     font-size: 18px;
     color: #FFFFFF;
 }
-.description {
+.distribution .description {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07;
@@ -64,11 +64,10 @@ a {
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.order button {
+.distribution button {
     margin-top: 40px;
     background-color: #4D5AE5;
     border: none;
-    border-radius: 8px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -77,10 +76,10 @@ a {
     cursor: pointer;
     font-family: "Roboto", sans-serif;
 }
-.order button:hover {
+.distribution button:hover {
     background-color: #404bbf;
 }
-.order button:focus {
+.distribution button:focus {
     background-color: #404bbf;
 }
 .goal-header {
@@ -155,3 +154,4 @@ a {
     color: #f4f4fd;
 
 }
+
